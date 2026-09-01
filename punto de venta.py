@@ -11,8 +11,6 @@ def pedir_numero(mensaje):
                 return numero
         except ValueError:
             print("Entrada invalida. Ingrese un numero entero.")
-
-
 total = 0
 
 while True:
